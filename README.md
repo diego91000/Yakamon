@@ -13,7 +13,7 @@ The backend handles:
 - creature capture and evolution
 - Yakadex (creature encyclopedia)
 
-The project follows a **layered architecture** (presentation, business, data) :contentReference[oaicite:0]{index=0}  
+The project follows a **layered architecture** (presentation, business, data)  
 
 ## ⚠️ Project Status
 
@@ -38,7 +38,7 @@ The project follows a layered architecture:
 - **Data layer**: Repositories and models
 - **Converters**: Data transformation between layers
 
-This structure ensures modularity and maintainability :contentReference[oaicite:1]{index=1}  
+This structure ensures modularity and maintainability  
 
 ## Build
 
