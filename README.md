@@ -1,6 +1,6 @@
 # Yakamon
 
-Backend implementation of a creature-collection game using Java, Quarkus, and Hibernate.
+Backend implementation of an API-RESTful, creature-collection game using Java, Quarkus, and Hibernate.
 
 ## Description
 
@@ -59,7 +59,6 @@ http://localhost:8081
 ```
 
 Test endpoint:
-
 ```bash
 curl http://localhost:8081/hello
 ```
@@ -130,4 +129,4 @@ mvn test
 
 ## Author
 
-EPITA student project
+Diego De Magalhaes Moreira
